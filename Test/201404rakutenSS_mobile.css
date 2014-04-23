@@ -1,0 +1,1468 @@
+﻿@charset "utf-8";
+/* CSS Document */
+body{ 
+	margin:0;
+	padding:0;
+	
+	}
+a:focus, input[type=button] ,input[type=submit] {
+        outline:none;
+}
+
+ul, li, p, h3, h4, h5, img, dl, dt, dd, span, a{ margin:0 ; padding:0}
+	
+#content_box{
+	width: 320px;
+	margin-right: auto;
+	margin-left: auto;
+	
+}
+/*hero*/
+/* 4個1排*/
+#Wrapper_m{
+	text-decoration: none;
+	color: #000;
+	padding-top: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+}
+
+
+
+
+#Wrapper_m .TitleBar{
+	clear: both;
+	height: 40px;
+	background-repeat: repeat;
+	background-position: left -672px;
+	padding-top: 15px;
+	margin: 0px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	text-align: center;
+	font-size: 15px;
+	line-height: 18px;
+	font-weight: bold;
+	font-family: "微軟正黑體";
+	color: #3c3c3c;
+	
+}
+
+#Wrapper_m .TitleBar strong {
+	font-size: 15px;
+	font-weight: bold;
+	color: #99041e;
+	font-family: "微軟正黑體";
+	text-decoration: none;
+}
+
+#Wrapper_m .Titleword{ 
+height:45px;
+margin:0px 0px px 0px;
+}
+
+#Wrapper_m .Titleword p {
+	font-size: 25px;
+	line-height: 13px;
+	text-align:center;
+	margin: 20px 0px 0px 0px;
+	color: #bf1920;
+	ont-family: "微軟正黑體";
+	text-decoration:none;
+}
+#Wrapper_m .banner_box{
+	width: 320px;
+}
+#Wrapper_m .banner_box ul{
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/b/bbg.jpg);
+	background-repeat: repeat;
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+#Wrapper_m .banner_box ul li{
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	float: left;
+	height: 170px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	background-position: 10px -1840px;
+	background-repeat: no-repeat;
+	background-color: #FBFBFB;
+	width: 320px;
+	text-align: center;
+	padding-left: 3px;
+}
+#Wrapper_m .banner_box ul li img{
+	height: 161px;
+	width: 287px;
+
+}
+
+
+#Wrapper_m ul{
+	clear: both;
+	overflow: hidden;
+}
+
+/* 4個1排_各類別背景圖 */
+#Wrapper_m ul.A{
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: left -1477px;
+	margin-bottom: 15px;
+	padding-bottom: 10px;
+	height: 300px;
+
+}
+
+#Wrapper_m ul.B{
+	padding-bottom: 15px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-position: left -729px;
+	padding-right: 2px;
+	padding-left: 3px;
+
+}
+#Wrapper_m ul.C{
+	padding-bottom: 15px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-position: left -729px;
+	padding-right: 2px;
+	padding-left: 3px;
+
+}
+
+#Wrapper_m ul.A li{
+	float: left;
+	width: 155px;
+	text-decoration: none;
+	overflow: hidden;
+	list-style-type: none;
+	position: relative;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	height: 300px;
+	padding-right: 2px;
+	padding-left: 2px;
+}
+
+#Wrapper_m ul li a{text-decoration:none;}
+
+#Wrapper_m ul.A li h4{
+	height: 18px;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: bold;
+	text-align: center;
+	color: #FFF;
+	font-family: "微軟正黑體";
+	text-decoration: none;
+	padding-right: 0px;
+	padding-left: 0px;
+	overflow: hidden;
+	height: 26px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: 13px -1253px;
+	display: block;
+}
+
+#Wrapper_m ul.A li h4 a{ color: #C39; text-decoration:none;}
+#Wrapper_m ul.A li h4 a:hover{
+	}
+#Wrapper_m ul.A li h4 a{ color: #C39; text-decoration:none;}
+#Wrapper_m ul.A li h4 a:hover{
+	}
+#Wrapper_m ul.A li h5{
+	text-align: center;
+	display: block;
+	font-size: 13px;
+	color: #000000;
+	text-decoration: none;
+	margin-right: 5px;
+	margin-left: 5px;
+	overflow: hidden;
+	line-height: 15px;
+	font-weight: bold;
+	height: 15px;
+	padding-bottom: 2px;
+}
+
+#Wrapper_m ul.A li h5 a{ color: #C39; text-decoration:none;}
+#Wrapper_m ul.A li h5 a:hover{
+	}			
+#Wrapper_m ul.A li p.pic{
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: left -1305px;
+	height: 160px;
+	width: 156px;
+	padding-bottom: 1px;
+	margin-bottom: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 5px;
+
+}
+
+#Wrapper_m ul.A li img{
+	width: 148px;
+	height: 148px;
+	border: 2px solid #FFF;
+}
+#Wrapper_m ul.A li img:hover{
+	width: 148px;
+	height: 148px;
+	border: 2px solid #B72727;
+}
+#Wrapper_m ul.A li p.normal{
+	display: none;	
+}
+#Wrapper_m ul.A li p.over{
+	height: 130px;
+	width: 130px;
+	position: absolute;
+	z-index: 5;
+	left: 6px;
+	top: 43px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/sale_over.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+#Wrapper_m ul.A li p.more{
+	height: 130px;
+	width: 130px;
+	position: absolute;
+	z-index: 5;
+	left: 6px;
+	top: 43px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/sale_more.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+
+
+#Wrapper_m ul li p.ltemS{
+	text-align: center;
+	display: block;
+	height: 16px;
+	font-size: 13px;
+	line-height: 13px;
+	text-decoration: none;
+	font-weight: bold;
+	margin-right: 3px;
+	margin-left: 3px;
+	padding-right: 0px;
+	padding-left: 0px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+	overflow: hidden;
+	padding-top: 3px;
+	margin-bottom: 3px;
+	padding-bottom: 3px;
+
+}
+#Wrapper_m ul li p.ItemName{
+	text-align: center;
+	display: block;
+	height: 28px;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	padding-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	overflow: hidden;
+	line-height: 15px;
+	padding-top: 2px;
+
+}
+#Wrapper_m ul li p.ItemName a{	color:#000000;}
+#Wrapper_m ul li p.ItemName a:hover{ color: #939;}
+
+#Wrapper_m ul li p{
+	font-size: 12px;
+	color: #CC0000;
+	text-align: center;
+	text-decoration: none;
+	height: 25px;
+	overflow: hidden;
+	padding-bottom: 1px;
+}
+#Wrapper_m ul li p span.Original{
+	color: #999;
+	text-decoration: line-through;
+	float: left;
+	margin-left: 0px;
+	padding-top: 5px;
+	font-size: 0.8em;
+-webkit-transform: scale(0.75);
+}
+#Wrapper_m ul li p span.SaleNum{
+	font-size: 0.95em;
+	margin-right: 2px;
+	float: right;
+}
+#Wrapper_m ul li p span.SaleNum strong{
+	font-size: 18px;
+	font-weight: bold;
+}
+#Wrapper_m ul.B li{
+	float: left;
+	width: 156px;
+	text-decoration: none;
+	overflow: hidden;
+	list-style-type: none;
+	position: relative;
+	height: 280px;
+}
+
+#Wrapper_m ul.B li h4{
+	height: 18px;
+	font-size: 16px;
+	line-height: 20px;
+	font-weight: bold;
+	text-align: center;
+	color: #333;
+	font-family: "微軟正黑體";
+	text-decoration: none;
+	padding-right: 0px;
+	padding-left: 0px;
+	overflow: hidden;
+	height: 20px;
+	padding-top: 5px;
+}
+
+
+	
+#Wrapper_m ul.B li p.pic{
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: left -1020px;
+	height: 160px;
+	width: 150px;
+	padding-top: 4px;
+	padding-bottom: 1px;
+	margin-bottom: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 5px;
+
+}
+
+#Wrapper_m ul.B li img{
+	width: 146px;
+	height: 146px;
+	border: 2px solid #FFF;
+}
+#Wrapper_m ul.B li img:hover{
+	width: 146px;
+	height: 146px;
+	border: 2px solid #B72727;
+}
+
+#Wrapper_m ul.C li{
+	float: left;
+	width: 156px;
+	text-decoration: none;
+	overflow: hidden;
+	list-style-type: none;
+	position: relative;
+	height: 280px;
+}
+
+#Wrapper_m ul.C li h4{
+	height: 18px;
+	font-size: 16px;
+	line-height: 20px;
+	font-weight: bold;
+	text-align: center;
+	color: #333;
+	font-family: "微軟正黑體";
+	text-decoration: none;
+	padding-right: 0px;
+	padding-left: 0px;
+	overflow: hidden;
+	height: 20px;
+	padding-top: 5px;
+}
+
+#Wrapper_m ul.C li h4 a{ color: #C39; text-decoration:none;}
+#Wrapper_m ul.C li h4 a:hover{
+	}
+#Wrapper_m ul.C li p.pic{
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: left -1020px;
+	height: 160px;
+	width: 150px;
+	padding-top: 4px;
+	padding-bottom: 1px;
+	margin-bottom: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 5px;
+}
+
+#Wrapper_m ul.C li p.pic img{
+	width: 146px;
+	height: 146px;
+	border: 2px solid #FFF;
+}
+#Wrapper_m ul.C li p.pic img:hover{
+	width: 146px;
+	height: 146px;
+	border: 2px solid #B72727;
+}
+
+#Wrapper_m ul.C li p.spic{
+	height: 75px;
+	width: 75px;
+	position: absolute;
+	z-index: 5;
+	left: 85px;
+	top: 135px;
+}
+#Wrapper_m ul.C li p.spic img{
+	height: 75px;
+	width: 75px;
+}
+#Wrapper_m ul.C li p.ltemS{
+	text-align: left;
+	display: block;
+	height: 16px;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+	margin-right: 5px;
+	margin-left: 0px;
+	padding-right: 0px;
+	padding-left: 5px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #acacac;
+	overflow: hidden;
+	padding-top: 6px;
+	margin-bottom: 5px;
+}
+#Wrapper_m ul.C li p.ItemName{
+	text-align: left;
+	display: block;
+	height: 25px;
+	font-size: 13px;
+	color: #000000;
+	text-decoration: none;
+	padding-bottom: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	overflow: hidden;
+	line-height: normal;
+
+}
+#Wrapper_m ul.C li p.ItemName a{color:#000000;}
+#Wrapper_m ul.C li p.ItemName a:hover{ color: #939;}
+
+
+.m_title{
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15px;
+	padding-bottom: 5px;
+	border-bottom-width: 3px;
+	border-bottom-style: solid;
+	border-bottom-color: #B11319;
+}
+.ss_hot {
+	list-style-type: none;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 1px;
+}
+.ss_hot ul {}
+.ss_hot li {
+	float: left;
+	height: 38px;
+	width: 33%;
+	margin-left: 1px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	text-align: center;
+	list-style-type: none;
+	background-color: #F3F2EE;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/h/hot_btnbg.jpg);
+	background-repeat: repeat-x;
+	background-position: center bottom;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #ACACAC;
+	line-height: 38px;
+	color: #333333;
+}
+
+.ss_hot li a:link,.ss_hot li a:visited{
+	color: #666;
+	text-decoration: none;
+}
+.ss_hot li a:hover,.ss_hot li a:active{
+	color: #333;
+	text-decoration: underline;
+}
+
+.Clear{ clear:both;}
+
+
+
+
+
+/*hero end*/
+#wrapper {
+	height: auto;
+	width: 320px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#wrapper .header {
+	height: 170px;
+	width: 320px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/ssm_banner.jpg);
+	background-repeat: no-repeat;
+	background-position: left top;
+	position: relative;
+}
+#wrapper .header .point_btn{
+	height: 46px;
+	width: 190px;
+	display: block;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: left -548px;
+	margin-top: 109px;
+	margin-left: 123px;
+	position: absolute;
+}
+
+#wrapper .header .point_btn a{
+	display: block;
+	height: 46px;
+	width: 190px;
+}
+#wrapper .header .point_btn:hover {
+	height: 46px;
+	width: 190px;
+	display: block;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: left -600px;
+	}
+	
+#wrapper .header .point_btn:active {
+	height: 46px;
+	width: 190px;
+	display: block;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: left -600px;
+	}	
+
+.data .data_selector {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+.data_selector li {
+	float: left;
+}
+#wrapper .data {
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2013/1227/date_bg.png);
+	background-repeat: repeat-x;
+	
+	width: 320px;
+
+
+}
+
+#wrapper .data_selector{margin-left:20px;
+	
+	
+	}
+
+#wrapper .data li{
+	height: 46px;
+	width: 94px;
+	display:block;
+	padding-left:0.5px;
+	
+	
+	}
+.data li a {
+	height: 33px;
+	width: 65px;
+	display:block;
+	text-decoration:none;
+	color:#FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	padding-top:12px;
+	padding-left: 26px;
+	padding-right:27px;
+	/*margin-top: -16px;*/
+}
+#data_selector li a:hover {
+	/*background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2013/1227/m_over.png) !important;
+	background-repeat: no-repeat;*/
+	display:block;
+	text-decoration:none;
+	color:#FFF;
+	background-size:100%;
+
+}
+
+.ss_hot_shot {
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2013/1227/hot_shot_d.png);
+	background-size:320px 35px;
+	background-repeat: no-repeat;
+	height: 35px;
+	width: 320px;
+		text-indent:-999em;
+		margin-top: 10px;
+}
+
+
+.ss_hot_bottom {
+	height: auto;
+	width: 320px;
+}
+.ss_super_list {
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2013/1227/ss_list_d.png);
+	background-size:320px 25px;
+	background-repeat: no-repeat;
+	height: 25px;
+	width: 320px;
+	margin-top: 15px;
+}
+.ss_hot_bottom_li li a {
+	color: #636363;
+
+}
+.data .left {
+	background: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2013/1227/arrow_left.png) transparent ;
+	background-repeat: no-repeat;
+	display: block;
+	height: 19px;
+	width: 9px;
+	position: absolute;
+	margin-top:14px;
+	margin-left:5px;
+}
+.data .right {
+	background: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2013/1227/arrow_right.png) transparent ;
+	background-repeat: no-repeat;
+	display: block;
+	height: 19px;
+	width: 9px;
+	position: absolute;
+	margin-top:14px;
+	margin-left:305px;
+}
+.d_font a  {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px !important;
+	color: #FFF;
+	
+}
+.ss_content_00_d {
+	height: auto;
+	width: 320px;
+}
+.ss_more_title_d {
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2013/1227/ss_search.png);
+	background-repeat: no-repeat;
+	height: 24px;
+	width: 320px;
+	text-indent: -999em;
+	margin-top:15px;
+}
+#content_m {
+	height: auto;
+	overflow: hidden;
+	width: 320px;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+/*hero item*/
+ #content_m li{
+	float: left;
+	width: 150px;
+	height: 320px;
+	text-decoration: none;
+	overflow: hidden;
+	border: 1px solid #CCC;
+	padding: 0px;
+	margin-top: 5px;
+	margin-right: 3px;
+	margin-bottom: 5px;
+	margin-left: 3px;
+}
+/*hero item*/
+
+#content_m .B .box {
+	float: left;
+	width: 150px;
+	height: 250px;
+	text-decoration: none;
+	overflow: hidden;
+	border: 1px solid #CCC;
+	padding: 0px;
+	margin-top: 5px;
+	margin-right: 3px;
+	margin-bottom: 5px;
+	margin-left: 3px;
+}
+
+#content_m li a{text-decoration:none;}
+ #content_m li.Last{margin:0;}
+
+#content_m li img{
+	width: 140px;
+	height: 140px;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCC;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+
+ #content_m li h4{
+	font-size: 15px;
+	/*line-height: 15px;*/
+	font-weight: bold;
+	text-align: center;
+	height:16px;
+	color: #FFF;
+	ont-family: "微軟正黑體";
+	text-decoration: none;
+	background-color: #BF1920;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+}
+
+
+ #content_m li h4 a{ color: #C39; text-decoration:none;}
+ #content_m li h4 a:hover{
+	}
+ #content_m li h5{
+	text-align: center;
+	display: block;
+	font-size: 13px;
+	color: #000000;
+	text-decoration: none;
+	margin-right: 5px;
+	margin-left: 5px;
+	overflow: hidden;
+	line-height: 15px;
+	font-weight: bold;
+	height: 15px;
+}
+
+ #content_m li h5 a{ color: #C39; text-decoration:none;}
+ #content_m li h5 a:hover{
+	}	
+ #content_m li p.Item{
+	text-align:center;
+	width:280px;
+	display:block;
+	height:25px;
+	font-size: 15px;
+	color:#bf1920;
+	line-height:18px;
+	text-decoration:none;
+	padding: 3px 3px 3px 3px;
+
+}
+#content_m li p.ItemName{
+	text-align: center;
+	display: block;
+	min-height: 20px;
+	font-size: 12px;
+	color: #000000;
+	line-height: 13px;
+	text-decoration: none;
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 6px;
+	padding-left: 3px;
+	overflow: hidden;
+
+}
+
+ #content_m li p.ItemNameA{
+	text-align: center;
+	display: block;
+	min-height: 20px;
+	font-size: 12px;
+	color: #000000;
+	line-height: 13px;
+	text-decoration: none;
+	padding-top: 3px;
+	padding-right: 3px;
+	padding-bottom: 6px;
+	padding-left: 3px;
+	overflow: hidden;
+}
+
+ #content_m li p.ltemSA{
+	text-align:center;
+	width:280px;
+	display:block;
+	height:30px;
+	font-size: 18px;
+	color:#GF1920;
+	line-height:18px;
+	text-decoration:none;
+	padding: 10px 0px 0px 0px;
+	font-weight: bold;
+
+}
+
+ #content_m li p.ltemS{
+	text-align: center;
+	display: block;
+	font-size: 13px;
+	color: #BF1920;
+	line-height: 20px;
+	text-decoration: none;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	height: 15px;
+	overflow: hidden;
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCC;
+
+}
+
+ #content_m li p.StoreName{
+	text-align: center;
+	font-weight: bold;
+	display: block;
+	height: 15px;
+	font-size: 12px;
+	color: #000000;
+	line-height: 13px;
+	text-decoration: none;
+	padding-top: 5px;
+	padding-bottom: 8px;
+
+}
+ #content_m li p.ItemName a{	color:#000000;}
+ #content_m li p.ItemName a:hover{ color: #939;}
+
+#content_m li p{
+	font-size: 12px;
+	color: #CC0000;
+	padding-bottom: 5px;
+	text-align: center;
+	text-decoration: none;
+}
+#content_m li p span.Original{
+	color: #999;
+	text-decoration: line-through;
+	margin-right: 2px;
+	font-size: 10px;
+}
+ #content_m li p span.SaleNum{
+	font-size: 18px;
+	font-weight: bold;
+	margin-right: 5px;
+}
+
+ #content_m li p span.Buy img{
+	padding:0px;
+	border:0px;
+	background-color: transparent;
+}
+
+ #content_m li p span.Buy {
+	font-size:15px;
+	color: #F33;
+	text-decoration:underline;
+}
+ #content_m li p span.Buy a{ color:#F33;}
+ 
+.banner_d{
+	margin-top:15px;
+	
+	
+	}
+	
+#menu_supersale {
+	width: 320px;
+	overflow: hidden;
+}	
+#menu_supersale ul{
+	margin: 0px;
+	padding: 0px;
+}	
+#menu_supersale ul li{
+	float: left;
+	display: block;
+	text-indent: -999em;
+	height: 50px;
+	list-style-type: none;
+	}
+
+
+/*navtop01*/	
+	
+.a01  {
+	width: 106px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: left -193px;
+	height: 50px;
+	float: left;
+	}
+.a01 a{
+	height: 50px;
+	width: 106px;
+	display: block;
+}
+.a01 a:hover{
+	width: 106px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: left -245px;
+	height: 50px;
+	display: block;
+	}
+#a01{
+	width: 106px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: left -245px;
+	height: 50px;
+	display: block;
+	float: left;
+	}
+/*變換選單*/
+#a01 a{
+	height: 50px;
+	width: 106px;
+	display: block;
+	}
+#a01 a:hover{
+	width: 106px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: left -245px;
+	height: 50px;
+	display: block;
+	
+	}
+
+/*navtop02*/	
+.a02{
+	width: 105px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: -105px -193px;
+	height: 50px;
+	float: left;
+	}
+.a02 a{
+	height: 50px;
+	width: 105px;
+	display: block;
+}	
+.a02 a:hover{
+	width: 105px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: -105px -245px;
+	height: 50px;
+	display: block;
+	}
+#a02{
+	width: 105px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: -105px -245px;
+	height: 50px;
+	display: block;
+	float: left;
+	}
+#a02 a{
+	height: 50px;
+	width: 105px;
+	display: block;
+}	
+#a02 a:hover{
+	width: 105px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: -105px -245px;
+	height: 50px;
+	display: block;
+	}
+	
+/*navtop03*/		
+.a03{
+	width: 108px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: -212px -193px;
+	height: 50px;
+	float: left;
+	}
+.a03 a{
+	height: 50px;
+	width: 108px;
+	display: block;
+}		
+.a03 a:hover{
+	width: 108px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: -212px -245px;
+	height: 50px;
+	display: block;
+	}	
+#a03{
+	width: 108px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: -212px -245px;
+	height: 50px;
+	display: block;
+	float: left;
+	
+	}
+#a03 a{
+	height: 50px;
+	width: 108px;
+	display: block;
+}	
+	
+#a03 a:hover{
+	width: 108px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: -212px -245px;
+	height: 50px;
+	display: block;
+}
+	
+ 
+
+#sub_menu_supersale ul li {
+	float: left;
+	display: block;
+	text-indent: -999em;
+	cursor: pointer;
+	background-repeat: no-repeat;
+	height: 65px;
+}
+
+/*日期選單*/
+#date_selector {
+	height: 45px;
+	width: 316px;
+	overflow: hidden;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: left -440px;
+	padding-right: 2px;
+	padding-left: 2px;
+}
+#date_selector .left{
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: 10px -95px;
+	float: left;
+	height: 45px;
+	width: 29px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #666;
+}
+#date_selector .right{
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-repeat: no-repeat;
+	background-position: 10px -133px;
+	float: left;
+	height: 45px;
+	width: 28px;
+	
+	}
+#date_selector ul{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+	float: left;
+	width: 255px;
+}
+
+#date_selector ul li.d01 {
+	height: 45px;
+	cursor: pointer;
+	background-repeat: no-repeat;
+	display: block;
+	width: 84px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #666;
+	font-size: 15px;
+	line-height: 45px;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+	text-decoration: none;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+}
+#date_selector ul li.d01:hover{
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-position: -30px -487px;
+}
+#date_selector ul li.d01 a:link{
+	text-decoration: none;
+}
+
+#date_selector ul li.d01 a:visited{}
+
+#date_selector ul li.d01 a:active{}
+#date_selector ul li.d01 a:hover{}
+#date_selector ul li.d01 a{
+	height: 45px;
+	width: 135px;
+	display: block;
+	text-decoration: none;
+}
+#date_selector li.d01 a:hover{
+	width: 135px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/menu-1.png);
+	background-repeat: no-repeat;
+	background-position: left -520px;
+	height: 45px;
+}
+
+#date_selector ul li#d01 {
+	background-repeat: no-repeat;
+	height: 45px;
+	display: block;
+	width: 84px;
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #666;
+	font-size: 15px;
+	line-height: 45px;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	float: left;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-position: -30px -487px;
+}
+#date_selector ul li#d01:hover{
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-position: -30px -487px;
+}
+#date_selector ul li#d01 a:link{
+	text-decoration: none;
+}
+
+#date_selector ul li#a01 a:visited{}
+
+#date_selector ul li#d01 a:active{}
+#date_selector ul li#d01 a:hover{}
+#date_selector ul li#d01 a{
+	height: 45px;
+	width: 135px;
+	display: block;
+	text-decoration: none;
+}
+#date_selector li#d01 a:hover{
+	width: 135px;
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/menu-1.png);
+	background-repeat: no-repeat;
+	background-position: left -520px;
+	height: 45px;
+}
+
+
+
+/*點數說明文*/
+
+ /*點數說明*/
+#POINT_SS{
+	overflow: hidden;
+	width: 320px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+
+#POINT_INFOline{
+	text-align: left;
+	overflow: hidden;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #999;
+	display: block;
+	height: 20px;
+	margin-bottom: 20px;
+	margin-right: 15px;
+	margin-left: 15px;
+}
+/*超級點數說明文*/
+
+
+#POINT_INFO{
+	text-align: left;
+	overflow: hidden;
+	border: 5px solid #C00;
+	margin-top: 15px;
+	background-color: #FFF;
+	padding-bottom: 30px;
+}
+
+#POINT_INFO span.COLOR{ color:#BF0000;}
+
+
+#POINT_INFO h2{
+	border-left: 10px groove #CC0000;
+	font-size: 16px;
+	font-family: "微軟正黑體", "新細明體";
+	color: #C00;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	margin: 10px;
+}
+#POINT_INFO p{
+	margin: 0px;
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 18px;
+	color: #333;
+	padding-top: 0;
+	padding-right: 20px;
+	padding-bottom: 0;
+	padding-left: 20px;
+}
+
+#POINT_INFO div p{ margin:0; padding:0 60px 0 47px;;}
+#POINT_INFO table p{ margin:0; padding:0;}
+
+#POINT_INFO p a{ color:#002aff;text-decoration:none;}
+#POINT_INFO p a:hover{ text-decoration:underline; color:#993300;}
+
+#POINT_INFO p.TIME{
+	color: #1581dd;
+	padding-top: 0;
+	padding-right: 20px;
+	padding-bottom: 0;
+	padding-left: 20px;
+}
+#POINT_INFO p.POINT_NAME{
+	color: #bf0000;
+	font-weight: bold;
+	padding-top: 0;
+	padding-right: 20px;
+	padding-bottom: 0;
+	padding-left: 20px;
+}
+#POINT_INFO p.POINT_CARE{ color:#bf0000; padding-top:3px;}
+#POINT_INFO ul{
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+}
+#POINT_INFO ol{
+	margin: 0;
+	_padding: 0 60px 0 71px;
+	list-style-type: decimal;
+	font-weight: normal;
+	padding-top: 0;
+	padding-right: 20px;
+	padding-bottom: 0;
+	padding-left: 20px;
+}
+#POINT_INFO ol li{
+	font-size: 13px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 140%;
+	color: #333;
+	font-weight: normal;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 15;
+	padding-top: 0;
+	padding-right: 0;
+	padding-bottom: 5px;
+	padding-left: 0;
+}
+#POINT_INFO ol li a{ color:#002aff; text-decoration:none;}
+#POINT_INFO ol li a:hover{ text-decoration:underline; color:#993300;}
+
+#POINT_INFO ul.SHOP_LIST{
+	overflow: auto;
+	display: block;
+	border: #CCCCCC dotted 2px;
+	margin-top: 0;
+	margin-right: 20px;
+	margin-bottom: 0;
+	margin-left: 20px;
+	padding: 0;
+}
+#POINT_INFO ul.SHOP_LIST li{
+	margin: 0;
+	padding: 0;
+	float: left;
+	width: 250px;
+	height: 22px;
+}
+#POINT_INFO ul.SHOP_LIST li a{ font-size:13px; padding:0 0 0 22px; color:#2f88d9; line-height:22px; text-decoration:none;}
+#POINT_INFO ul.SHOP_LIST li a:hover{ text-decoration:underline; color:#bf0000;}
+
+#POINT_INFO br.CLEAR_FOLAT{clear:both;}
+#POINT_SS #POINT_INFO ol li table tr td {
+	text-align: center;
+}
+#POINT_SS #POINT_INFO ol li table tr td {
+	color: #FFF;
+}
+#POINT_SS #POINT_INFO ol li table {
+	color: #666;
+}
+.REDwordB {
+	color: #F00;
+	font-style: normal;
+	font-weight: bold;
+}
+
+.smart{}
+.smart img{
+	height: 529px;
+	width: 320px;
+}
+
+
+
+/* ============================================================== */
+/* ===================Andrew Mobile Function Css================= */
+/* ============================================================== */
+
+.selected {
+	background-image: url(http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);
+	background-position: -30px -487px;
+}
+
+.d01 {
+	background-repeat: no-repeat;
+	height: 45px;
+	display: block;
+	width: 84px;
+	font-size: 15px;	
+	line-height: 45px;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	float: left;
+	/*background-image: url(../SS_mobile/http://c.tw.rakuten-static.com/front/www/img/event/supersale/m/2014/201404/mobile.png);*/
+	/*background-position: -30px -487px;*/
+}
+
+.swiper-container {
+	margin: 0px;
+	width: 255px;
+	height: 45px;
+}
+
+.right {
+	margin-top: -46px;
+	margin-left: 290px;
+}
+
+.off {
+	display:none;
+}
+
+#back_top {
+		line-height:1;
+		-webkit-box-shadow:0 2px 6px 0 rgba(0,0,0,0.06),0 -2px 6px 0 rgba(0,0,0,0.06),-2px 0 6px 0 rgba(0,0,0,0.06);
+		-moz-box-shadow:0 2px 6px 0 rgba(0,0,0,0.06),0 -2px 6px 0 rgba(0,0,0,0.06),-2px 0 6px 0 rgba(0,0,0,0.06);
+		box-shadow:0 2px 6px 0 rgba(0,0,0,0.06),0 -2px 6px 0 rgba(0,0,0,0.06),-2px 0 6px 0 rgba(0,0,0,0.06);
+		border-top:1px solid #cccccc;
+		border-left:1px solid #cccccc;
+		border-bottom:1px solid #aaaaaa;
+		background-color:#ffffff;
+		color:#515151;
+		position: fixed;
+		height:36px;
+		bottom:10px;
+		right: 10px;
+		overflow: hidden;
+			opacity:0.5;
+			filter: alpha(opacity=50);
+
+	}
+
+	* html #back_top {
+		display: none;
+
+	}
+	#back_top img {
+		display: block;
+		cursor: pointer;
+	}
+
+
+	#back_top a {
+		margin: 0px auto; 
+		display: block; 
+		overflow: hidden; 
+		height: 100px;
+	}
+
+	#back_top a img {
+		display: block
+	}
+	
+	#menu_selector {
+	
+	z-index:100000;
+	
+	}
+	
+		
+	.dummy_menu {
+	height:95px;
+	}
