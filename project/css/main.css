@@ -1,5 +1,5 @@
 /* line 1, ../sass/main.scss */
-#container, .menu, .sideMenu, .product .name, .product .image, .product .description, .product .price, .product .button, .footer {
+#container, .menu, .sideMenu, .sidebar, .product .name, .product .image, .product .description, .product .price, .product .button, .footer {
   border: 1px solid #eee;
 }
 
@@ -84,51 +84,57 @@
 
 /* line 81, ../sass/main.scss */
 .side_container {
+  padding-top: 10px;
   height: 1000px;
+}
+
+/* line 90, ../sass/main.scss */
+.sidebar.isTitle {
+  background-color: #2D5781;
 }
 
 /* ================================= */
 /* Product CSS */
 /* ================================= */
-/* line 88, ../sass/main.scss */
+/* line 97, ../sass/main.scss */
 #product_container {
   padding-top: 20px;
 }
 
-/* line 92, ../sass/main.scss */
+/* line 101, ../sass/main.scss */
 .product {
   /*border: 1px solid #eee;*/
   height: 200px;
 }
 
-/* line 97, ../sass/main.scss */
+/* line 106, ../sass/main.scss */
 .product .name {
   height: 10%;
 }
 
-/* line 102, ../sass/main.scss */
+/* line 111, ../sass/main.scss */
 .product .image {
   height: 50%;
 }
 
-/* line 107, ../sass/main.scss */
+/* line 116, ../sass/main.scss */
 .product .description {
   height: 20%;
 }
 
-/* line 112, ../sass/main.scss */
+/* line 121, ../sass/main.scss */
 .product .price {
   height: 10%;
 }
 
-/* line 117, ../sass/main.scss */
+/* line 126, ../sass/main.scss */
 .product .button {
   height: 10%;
 }
 
 /* ================================= */
 /* ================================= */
-/* line 125, ../sass/main.scss */
+/* line 134, ../sass/main.scss */
 .footer {
   height: 150px;
 }

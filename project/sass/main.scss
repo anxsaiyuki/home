@@ -79,9 +79,18 @@
 }
 
 .side_container {
+	padding-top:10px;
 	height:1000px;
 }
 
+.sidebar {
+
+	@extend %block-border;
+	
+	&.isTitle{
+		background-color: #2D5781;
+	}
+}
 /* ================================= */
 /* Product CSS */
 /* ================================= */
