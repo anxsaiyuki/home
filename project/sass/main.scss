@@ -1,7 +1,12 @@
+%block-border{
+	border: 1px solid #eee;
+}
+
+
 #container {
 	width:975px;
 	margin: 0 auto;
-	border: 1px solid #eee;
+	@extend %border;
 }
 
 .row{
@@ -22,7 +27,7 @@
 }
 
 .menu {
-	border: 1px solid #eee;
+	@extend %block-border;
 	height:24px;
 }
 
@@ -69,7 +74,7 @@
 
 
 .sideMenu {
-	border: 1px solid #eee;
+	@extend %block-border;
 	height:500px;
 }
 
@@ -90,27 +95,27 @@
 }
 
 .product .name {
-	border: 1px solid #eee;
+	@extend %block-border;
 	height:10%;
 }
 
 .product .image {
-	border: 1px solid #eee;
+	@extend %block-border;
 	height:50%;
 }
 
 .product .description {
-	border: 1px solid #eee;
+	@extend %block-border;
 	height:20%;
 }
 
 .product .price {
-	border: 1px solid #eee;
+	@extend %block-border;
 	height:10%;
 }
 
 .product .button {
-	border: 1px solid #eee;
+	@extend %block-border;
 	height:10%;
 }
 
@@ -118,6 +123,6 @@
 /* ================================= */
 
 .footer {
-	border: 1px solid #eee;
+	@extend %block-border;
 	height:150px;
 }
