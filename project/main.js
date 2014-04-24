@@ -2,11 +2,20 @@ require.config({
     baseUrl: 'js/lib',
     paths: {
         jquery: 'jquery-1.11.0.min',
-		message : 'message'
+		banner: 'widget/banner',
+		menu: 'widget/menu',
+		sideMenu: 'widget/sideMenu',
+		product: 'widget/product',
+		footer: 'widget/footer'
     }
 });
 
-require(['message'], function(message) {
+require(['banner','menu','sideMenu','product','footer'], function(a,b,c,d,e) {
   
-	message.start();
+	a.start();
+	b.start();
+	c.start();
+	d.start();
+	e.start();
+	
 });
