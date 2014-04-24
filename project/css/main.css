@@ -75,7 +75,7 @@
 }
 
 /* line 70, ../sass/main.scss */
-.subList:hover {
+.subList li:hover {
   background-color: #2D5781;
 }
 
