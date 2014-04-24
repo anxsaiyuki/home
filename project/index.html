@@ -24,10 +24,44 @@
 	height:150px;
 }
 
+/* ================================= */
+/* Product CSS */
+/* ================================= */
 .menu {
 	border: 1px solid #eee;
 	height:60px;
 }
+
+.list {
+	display:inline-block;
+	width:10%;
+	border: 1px solid #eee;
+}
+
+.subList {
+	display:none;
+}
+
+.subList li {
+	border-top: 1px solid black;
+	list-style-type: none;
+	width: 100px;
+	z-index: 10;
+	background-color: grey;
+}
+
+.list:hover .subList {
+	position:absolute;
+	display:block;
+}
+
+
+
+
+/* ================================= */
+/* ================================= */
+
+
 
 .sideMenu {
 	border: 1px solid #eee;
