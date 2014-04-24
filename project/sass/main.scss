@@ -2,6 +2,9 @@
 	border: 1px solid #eee;
 }
 
+%color-white{
+	color: #fff;
+}
 
 #container {
 	width:975px;
@@ -34,8 +37,8 @@
 .list {
 	display:inline-block;
 	width:10%;
-	color: #fff;
 	padding-left: 33px;
+	@extend %color-white;
 	/*border: 1px solid #eee;*/
 }
 
@@ -86,9 +89,13 @@
 .sidebar {
 
 	@extend %block-border;
-	
-	&.isTitle{
+	text-align:center;
+	&.is-Title{
+		@extend %color-white
 		background-color: #2D5781;
+	}
+	&.is-Sub{
+		
 	}
 }
 /* ================================= */
