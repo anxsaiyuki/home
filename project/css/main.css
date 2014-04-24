@@ -1,0 +1,133 @@
+/* line 1, ../sass/main.scss */
+#container {
+  width: 975px;
+  margin: 0 auto;
+  border: 1px solid #eee;
+}
+
+/* line 7, ../sass/main.scss */
+.row {
+  /*margin-left:-15px;
+  margin-right:-15px;*/
+}
+
+/* line 12, ../sass/main.scss */
+.banner {
+  border: 1px solid #eee;
+  height: 150px;
+}
+
+/* ================================= */
+/* Menu CSS */
+/* ================================= */
+/* line 20, ../sass/main.scss */
+#menu_bar {
+  background-color: #2D5781;
+}
+
+/* line 24, ../sass/main.scss */
+.menu {
+  border: 1px solid #eee;
+  height: 24px;
+}
+
+/* line 29, ../sass/main.scss */
+.list {
+  display: inline-block;
+  width: 10%;
+  color: #fff;
+  padding-left: 33px;
+  /*border: 1px solid #eee;*/
+}
+
+/* line 37, ../sass/main.scss */
+.subList {
+  display: none;
+}
+
+/* line 42, ../sass/main.scss */
+.subList li {
+  border-top: 1px solid black;
+  list-style-type: none;
+  margin-left: -33px;
+  background-color: grey;
+  width: 115px;
+  padding-left: 50px;
+}
+
+/* line 51, ../sass/main.scss */
+.list:hover .subList {
+  position: absolute;
+  display: block;
+  z-index: 100;
+}
+
+/* line 57, ../sass/main.scss */
+.list:hover {
+  background-color: grey;
+}
+
+/* ================================= */
+/* ================================= */
+/* line 68, ../sass/main.scss */
+.sideMenu {
+  border: 1px solid #eee;
+  height: 500px;
+}
+
+/* line 73, ../sass/main.scss */
+.side_container {
+  height: 1000px;
+}
+
+/* ================================= */
+/* Product CSS */
+/* ================================= */
+/* line 80, ../sass/main.scss */
+#product_container {
+  padding-top: 20px;
+}
+
+/* line 84, ../sass/main.scss */
+.product {
+  /*border: 1px solid #eee;*/
+  height: 200px;
+}
+
+/* line 89, ../sass/main.scss */
+.product .name {
+  border: 1px solid #eee;
+  height: 10%;
+}
+
+/* line 94, ../sass/main.scss */
+.product .image {
+  border: 1px solid #eee;
+  height: 50%;
+}
+
+/* line 99, ../sass/main.scss */
+.product .description {
+  border: 1px solid #eee;
+  height: 20%;
+}
+
+/* line 104, ../sass/main.scss */
+.product .price {
+  border: 1px solid #eee;
+  height: 10%;
+}
+
+/* line 109, ../sass/main.scss */
+.product .button {
+  border: 1px solid #eee;
+  height: 10%;
+}
+
+/* ================================= */
+/* ================================= */
+/* line 117, ../sass/main.scss */
+.footer {
+  border: 1px solid #eee;
+  height: 150px;
+}
