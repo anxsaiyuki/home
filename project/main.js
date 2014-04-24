@@ -8,5 +8,5 @@ require.config({
 
 require(['message'], function(message) {
   
-	message.start;
+	message.start();
 });
