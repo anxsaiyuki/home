@@ -1,5 +1,5 @@
 /* line 1, ../sass/main.scss */
-.menu, .sideMenu, .product .name, .product .image, .product .description, .product .price, .product .button, .footer {
+#container, .menu, .sideMenu, .product .name, .product .image, .product .description, .product .price, .product .button, .footer {
   border: 1px solid #eee;
 }
 

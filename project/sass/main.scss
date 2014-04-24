@@ -6,7 +6,7 @@
 #container {
 	width:975px;
 	margin: 0 auto;
-	@extend %border;
+	@extend %block-border;
 }
 
 .row{
